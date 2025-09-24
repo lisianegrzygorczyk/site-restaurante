@@ -48,4 +48,14 @@ footer {
   img{
     width: 25%;
     height: 25%;
-  }
+}
+.cardapio{
+  display: flex;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+
+}
+.pratos{
+  width: 25%;
+}
